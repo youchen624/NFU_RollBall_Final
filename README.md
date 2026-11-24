@@ -5,9 +5,9 @@ A final exam project
 ## Key
 
 | Key | Details |
-| :-- | -:- |
+| :-- | :--: |
 | WASD | player move |
 
-##  Release
+## Release
 
 [File(Click for download)](.release/260625_2.zip)
